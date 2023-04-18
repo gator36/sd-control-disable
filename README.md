@@ -3,17 +3,17 @@
 A bash script to enable and disable the onboard Steam Deck controller buttons.
 
 This affects the:
-Steam Button / ... Button
-Face Buttons / Directional Pad / Analog sticks
-Small Buttons above the sticks and face Buttons (I call them Start and Select, haha)
-Triggers / Bumpers / Back Buttons
-(It may affect the touch functionality of the stick faces and gyros, but I did not test those)
+       Steam Button / ... Button
+       Face Buttons / Directional Pad / Analog sticks
+       Small Buttons above the sticks and face Buttons (I call them Start and Select, haha)
+       Triggers / Bumpers / Back Buttons
+       (It may affect the touch functionality of the stick faces and gyros, but I did not test those)
 
 This does NOT affect the:
-Screen
-Touch functionality of the screen
-USB-C Port (Or anything connected to said port; a connected controller will work normally)
-Bluetooth/WiFi (As above, a connected controller will work normally as will Wifi)
+       Screen
+       Touch functionality of the screen
+       USB-C Port (Or anything connected to said port; a connected controller will work normally)
+       Bluetooth/WiFi (As above, a connected controller will work normally as will Wifi)
 
 Using this script to disable these things, it turns the Steam Deck into a single-board computer with a touch screen, essentially.
 
