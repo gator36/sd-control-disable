@@ -28,7 +28,7 @@ for specific games.
             ./sd.sh -d 
 
        Arguments: -e, enable or -d disable
-       Adding no argument will return an error message and change nothing.
+       Adding any argument other than -e or -d will return an error message and change nothing.
 
        (Note for novice users: you may need to set the script as executable in the terminal
        via "chmod +X sd.sh" before it will run properly. You will also need superuser
