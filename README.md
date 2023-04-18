@@ -23,12 +23,12 @@ especially for FPS minded gamers (Counterstrike, Apex Legends, etc.) who would r
 as a portable PC and has no interest in gaming. It could be rolled into a start script for certain games to enable/disable the devices
 for specific games.
 
-Usage: Run ./sd.sh in a terminal environment with included arguments below
+       Usage: Run ./sd.sh in a terminal environment with included arguments below
        E.g. ./sd.sh -e 
             ./sd.sh -d 
 
-Arguments: -e, enable or -d disable
-           Adding no argument will return an error message and change nothing.
+       Arguments: -e, enable or -d disable
+       Adding no argument will return an error message and change nothing.
 
        (Note for novice users: you may need to set the script as executable in the terminal
        via "chmod +X sd.sh" before it will run properly. You will also need superuser
